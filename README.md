@@ -1,3 +1,3 @@
 # testrepo
 for demo use
-this is my first repot
+this is my first report
